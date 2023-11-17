@@ -10,6 +10,9 @@ I need to highlight these ==very important words==.
 *Category: Travel*
 
 Exploring a new city.
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+~~The world is flat.~~
+
 
 # Tech Post 2
 *Date: 2023-01-03*
