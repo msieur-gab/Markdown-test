@@ -3,6 +3,7 @@
 *Category: Tech*
 
 This is a tech-related blog post.
+I need to highlight these ==very important words==.
 
 # Travel Post 1
 *Date: 2023-01-02*
