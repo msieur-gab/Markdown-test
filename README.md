@@ -14,6 +14,10 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 ~~The world is flat.~~
 
 
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
 # Tech Post 2
 *Date: 2023-01-03*
 *Category: Tech*
