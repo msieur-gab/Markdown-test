@@ -1,4 +1,6 @@
 # Tech Post 1
+## sub title
+### sub sub title
 *Date: 2023-01-01*
 *Category: Tech*
 
