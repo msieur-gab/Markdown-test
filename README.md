@@ -31,5 +31,5 @@ Another tech post about programming.
 *Category: Travel*
 
 
-![]('https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg')
+![](https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg)
 Hiking in the mountains.
