@@ -7,7 +7,7 @@
 This is a tech-related blog post. 
 he was saying 
 
->what matters is not what you look at, but it is truly what you see
+> what matters is not what you look at, but it is truly what you see
 
 He then started to wander what was about looking and seeing.
 
