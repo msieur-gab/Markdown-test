@@ -4,12 +4,12 @@
 *Date: 2023-01-01*
 *Category: Tech*
 
-This is a tech-related blog post so is the text beeying automatically warp if it's to long to stand on one line. 
-Start with one \n was saying >test blockquote within text.
+This is a tech-related blog post so is the text beeying automatically warp if it's to long to stand on one line.
 
-start with \n\n to see how does that works
 
-> start with a \n\n what matters is not what you look at, but it is truly what you see
+start with to see how does that works
+
+> start with a  what matters is not what you look at, but it is truly what you see
 
 He then started to wander what was about looking and seeing.
 @test @other @design
