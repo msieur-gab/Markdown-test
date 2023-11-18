@@ -4,7 +4,9 @@
 *Date: 2023-01-01*
 *Category: Tech*
 
-This is a tech-related blog post. @test @other @design
+This is a tech-related blog post. 
+
+@test @other @design
 I need to highlight these ==very important words==.
 
 # Travel Post 1
