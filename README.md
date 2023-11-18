@@ -14,7 +14,7 @@ start with to see how does that works
 He then started to wander what was about looking and seeing.
 @test @other @design
 
-+item 1
++ item 1
 + item 2
 + item 3
 
