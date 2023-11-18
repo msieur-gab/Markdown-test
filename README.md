@@ -35,6 +35,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 Another tech post about programming.
 
 > what matters is not what you look at, but it is truly what you see
+
 and here some text 
 # Travel Post 2
 *Date: 2023-01-04*
