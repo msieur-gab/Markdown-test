@@ -13,6 +13,9 @@ start with to see how does that works
 
 He then started to wander what was about looking and seeing.
 @test @other @design
+
+He then started to wander what was about looking and seeing.@test @other @design
+
 I need to highlight these ==very important words==.
 
 # Travel Post 1
