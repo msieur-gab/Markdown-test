@@ -18,9 +18,9 @@ He then started to wander what was about looking and seeing.
 + item 2
 + item 3
 
-  1 item 1
-  1 item 2
-  3 item 3
+  1. item 1
+  1. item 2
+  3. item 3
   
 He then started to wander what was about looking and seeing.@test @other @design
 
