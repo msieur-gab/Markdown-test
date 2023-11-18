@@ -7,9 +7,7 @@
 This is a tech-related blog post so is the text beeying automatically warp if it's to long to stand on one line. 
 he was saying >test blockquote within text.
 > what matters is not what you look at, but it is truly what you see
-
 He then started to wander what was about looking and seeing.
-
 @test @other @design
 I need to highlight these ==very important words==.
 
