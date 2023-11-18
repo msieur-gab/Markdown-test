@@ -14,6 +14,14 @@ start with to see how does that works
 He then started to wander what was about looking and seeing.
 @test @other @design
 
++item 1
++ item 2
++ item 3
+
+  1 item 1
+  1 item 2
+  3 item 3
+  
 He then started to wander what was about looking and seeing.@test @other @design
 
 I need to highlight these ==very important words==.
