@@ -32,6 +32,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 *Category: Tech*
 
 Another tech post about programming.
+
 > what matters is not what you look at, but it is truly what you see
 
 # Travel Post 2
