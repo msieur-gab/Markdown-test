@@ -38,7 +38,6 @@ He then started to wander what was about looking and seeing.@test @other @design
 I need to highlight these ==very important words==.
 
 [^1]: This is the first footnote.
-
 [^3]: Here's one with multiple paragraphs and code.
 
 # Tech Post 2
