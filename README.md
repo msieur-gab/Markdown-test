@@ -11,7 +11,7 @@ start with to see how does that works
 
 > start with a  what matters is not what you look at, but it is truly what you see
 
-He then started to wander _ italic what was about looking_ and seeing.
+He then started to wander _italic what was about looking_ and seeing.
 @test @other @design
 
 + item 1
