@@ -31,13 +31,15 @@ I need to highlight these ==very important words==.
 *Category: Travel*
 
 Exploring a new city.
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+Here's a simple footnote,[^1] and here's a longer one.[^3]
 ~~The world is flat.~~
+He then started to wander what was about looking and seeing.@test @other @design
 
+I need to highlight these ==very important words==.
 
 [^1]: This is the first footnote.
 
-[^bignote]: Here's one with multiple paragraphs and code.
+[^3]: Here's one with multiple paragraphs and code.
 
 # Tech Post 2
 *Date: 2023-01-03*
