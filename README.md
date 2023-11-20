@@ -4,7 +4,7 @@
 *Date: 2023-01-01*
 *Category: Tech*
 
-This is a tech-related blog post so is the text beeying automatically warp if it's to long to stand on one line.
+This is a *tech-related blog post so is the text beeying* automatically warp if it's to long to stand on one line.
 
 
 start with to see how does that works
